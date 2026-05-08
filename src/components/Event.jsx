@@ -33,7 +33,7 @@ const Event = ({ onAddToCalendar }) => {
                 <p className="text-sm text-gray-500">Ds. Wilyut RT 07 RW 02 Dsn. Klagen, Sukodono, Sidoarjo</p>
               </div>
               <a 
-                href="https://maps.app.goo.gl/9dtV7TGL7H4R6yQc6" 
+                href="https://maps.app.goo.gl/zU3V71HXinbQB4R9A" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 mt-4 px-6 py-2 bg-gray-900 text-white rounded-full text-sm hover:bg-gray-950 transition-colors"
@@ -64,7 +64,7 @@ const Event = ({ onAddToCalendar }) => {
                 <p className="text-sm text-gray-500">Ds. Wilyut RT 07 RW 02 Dsn. Klagen, Sukodono, Sidoarjot</p>
               </div>
               <a 
-                href="https://maps.app.goo.gl/9dtV7TGL7H4R6yQc6" 
+                href="https://maps.app.goo.gl/zU3V71HXinbQB4R9A" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 mt-4 px-6 py-2 bg-gray-900 text-white rounded-full text-sm hover:bg-gray-950 transition-colors"
