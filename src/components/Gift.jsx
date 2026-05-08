@@ -162,22 +162,7 @@ const Gift = ({ onCopy }) => {
           </div>
         </div>
 
-        {/* QRIS */}
-        <div className="max-w-sm mx-auto reveal">
-          <div className="bg-white rounded-2xl p-6 shadow-lg border border-rose-100 text-center">
-            <h4 className="font-serif text-xl text-gray-800 mb-4">Scan QRIS</h4>
-            <div className="bg-gray-100 p-4 rounded-xl mb-4 inline-block">
-              <div className="w-48 h-48 bg-white flex items-center justify-center border-2 border-dashed border-gray-300 rounded-lg">
-                <div className="text-center">
-                  <QrCode size={48} className="text-gray-400 mx-auto mb-2" />
-                  <p className="text-xs text-gray-500">QR Code<br />Placeholder</p>
-                </div>
-              </div>
-            </div>
-            <p className="text-sm text-gray-500">Scan kode di atas menggunakan aplikasi e-wallet atau mobile banking Anda</p>
-          </div>
-        </div>
-
+        
         {/* Ucapan/RSVP Form */}
         <div className="max-w-2xl mx-auto mt-16 reveal">
           <h3 className="font-serif text-2xl text-center text-gray-800 mb-6">Kirim Ucapan & Doa</h3>
