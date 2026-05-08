@@ -64,7 +64,7 @@ const App = () => {
 
   useEffect(() => {
     const timer = setInterval(() => {
-      const weddingDate = new Date('2024-12-25T08:00:00').getTime();
+      const weddingDate = new Date('2026-06-07T08:00:00').getTime();
       const now = new Date().getTime();
       const distance = weddingDate - now;
 
