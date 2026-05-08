@@ -4,7 +4,7 @@ const Story = () => {
   const stories = [
     { year: '2019', title: 'Pertama Bertemu', description: 'Pertemuan pertama kami di sebuah kafe di Jakarta. Hujan turun deras saat itu, dan kami berbagi satu payung untuk pergi ke stasiun terdekat.' },
     { year: '2020', title: 'Jadian', description: 'Setelah berteman dekat selama setahun, kami memutuskan untuk menjalin hubungan. Momen spesial di taman kota saat senja.' },
-    { year: '2022', title: 'Lamaran', description: 'Romeo melamar Juliet di tempat pertama kali mereka bertemu. Dengan cincin sederhana namun penuh makna.' },
+    { year: '2022', title: 'Lamaran', description: 'Rizal melamar Lutfiah di tempat pertama kali mereka bertemu. Dengan cincin sederhana namun penuh makna.' },
     { year: '2024', title: 'Menikah', description: 'Hari yang kami nantikan akhirnya tiba. Kami siap membangun rumah tangga bersama.' }
   ];
 

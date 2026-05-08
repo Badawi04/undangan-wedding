@@ -130,7 +130,7 @@ const App = () => {
   };
 
   const addToCalendar = () => {
-    const googleCalendarUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent('Wedding of Romeo & Juliet')}&dates=20241225T080000/20241225T150000&location=${encodeURIComponent('Ballroom Grand Hotel, Jakarta')}&details=Wedding+Ceremony+and+Reception`;
+    const googleCalendarUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent('Wedding of Rizal & Lutfiah')}&dates=20241225T080000/20241225T150000&location=${encodeURIComponent('Ballroom Grand Hotel, Jakarta')}&details=Wedding+Ceremony+and+Reception`;
     window.open(googleCalendarUrl, '_blank');
     showToastMessage('Dibuka di Google Calendar');
   };
