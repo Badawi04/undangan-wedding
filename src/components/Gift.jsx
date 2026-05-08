@@ -183,7 +183,7 @@ const Gift = ({ onCopy }) => {
               >
                 <option value="Hadir">Hadir</option>
                 <option value="Tidak Hadir">Tidak Hadir</option>
-                <option value="Masih Ragu">Masih Ragu</option>
+                
               </select>
             </div>
             <textarea 
